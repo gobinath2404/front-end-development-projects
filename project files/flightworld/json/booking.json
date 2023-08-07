@@ -1,0 +1,445 @@
+{
+    "saels":[
+        {
+            "image" : "images/flihgt-offer01.png",
+            "title" : "offer",
+            "logo" : "images/spicejet.jpg",
+            "name" : "spicejet",
+            "booking" : "book a deal in selected flight"
+        },
+        {
+            "image" : "images/flihgt-offer02 .png",
+            "title" : "offer",
+            "logo" : "images/vistara.jpg",
+            "name" : "vistara",
+            "booking" : "Fresh Sale! Fares starting at $30"
+        },
+        {
+            "image" : "images/flihgt-offer03.png",
+            "title" : "offer",
+            "logo" : "images/thaiair.jpg",
+            "name" : "thaiair",
+            "booking" : "Flash Sale upto 25% off"
+        },
+        {
+            "image" : "images/flihgt-offer04 .png",
+            "title" : "offer",
+            "logo" : "images/6E.jpg",
+            "name" : "IndiGo",
+            "booking" : "Flash Sale! Fares starting at $89"
+        }
+    ],
+    "book":[
+        {
+            "from" : "Berlin BER",
+            "to" : "Japan AXT",
+            "date" : "Sun, 31/03 - Thu, 04/04",
+            "flight" : "IndiGo - Roundtrip",
+            "class" : "Economy",
+            "title" : "IndiGo",
+            "price" : "3,096",
+            "image" : "images/6E.jpg"
+        },
+        {
+            "from" : "Abu Dhabi AUH",
+            "to" : "London LHR",
+            "date" : "Sun, 31/03 - Thu, 04/04",
+            "flight" : "IndiGo - Roundtrip",
+            "class" : "Economy",
+            "title" : "airasia",
+            "price" : "3,096",
+            "image" : "images/airasia.jpg"
+        },
+        {
+            "from" : "Denmark AAL",
+            "to" : "Norway AES",
+            "date" : "Sun, 31/03 - Thu, 04/04",
+            "flight" : "IndiGo - Roundtrip",
+            "class" : "Economy",
+            "title" : "spicejet",
+            "price" : "3,096",
+            "image" : "images/spicejet.jpg"
+        },
+        {
+            "from" : "Scotland ABZ",
+            "to" : "Australia ADL",
+            "date" : "Sun, 31/03 - Thu, 04/04",
+            "flight" : "IndiGo - Roundtrip",
+            "class" : "Economy",
+            "title" : "thaiair",
+            "price" : "3,096",
+            "image" : "images/thaiair.jpg"
+        },
+        {
+            "from" : "Egypt ALY",
+            "to" : "Greece AXD",
+            "date" : "Sun, 31/03 - Thu, 04/04",
+            "flight" : "IndiGo - Roundtrip",
+            "class" : "Economy",
+            "title" : "vistara",
+            "price" : "3,096",
+            "image" : "images/vistara.jpg"
+        },
+        {
+            "from" : "Bahamas NSB ",
+            "to" : "Spain LEI",
+            "date" : "Sun, 31/03 - Thu, 04/04",
+            "flight" : "IndiGo - Roundtrip",
+            "class" : "Economy",
+            "title" : "IndiGo",
+            "price" : "3,096",
+            "image" : "images/6E.jpg"
+        },
+        {
+            "from" : "Bahamas NSB",
+            "to" : "Spain LEI",
+            "date" : "Sun, 31/03 - Thu, 04/04",
+            "flight" : "IndiGo - Roundtrip",
+            "class" : "Economy",
+            "title" : "IndiGo",
+            "price" : "3,096",
+            "image" : "images/6E.jpg"
+        },
+        {
+            "from" : "Bahamas NSB",
+            "to" : "Spain LEI",
+            "date" : "Sun, 31/03 - Thu, 04/04",
+            "flight" : "IndiGo - Roundtrip",
+            "class" : "Economy",
+            "title" : "IndiGo",
+            "price" : "3,096",
+            "image" : "images/6E.jpg"
+        },
+        {
+            "from" : "Bahamas NSB",
+            "to" : "Spain LEI",
+            "date" : "Sun, 31/03 - Thu, 04/04",
+            "flight" : "IndiGo - Roundtrip",
+            "class" : "Economy",
+            "title" : "IndiGo",
+            "price" : "3,096",
+            "image" : "images/6E.jpg"
+        }
+    ],
+    "worldTour":[
+        {
+            "image" : "images/deals01.png",
+            "title" : "trip",
+            "city" : "London to New Delhi",
+            "trip" : "Oneway Trip,Economy",
+            "start" : "From",
+            "price" : " 309 USD",
+            "name" : "Thai Airlines",
+            "logo" : "images/thaiair.jpg",
+            "logotitle" : "thaiair"
+        },
+        {
+            "image" : "images/deals02.png",
+            "title" : "trip",
+            "city" : "Mumbai to Abu Dhabi",
+            "trip" : "Oneway Trip,Economy",
+            "start" : "From",
+            "price" : " 159 USD",
+            "name" : "Vistara Airlines",
+            "logo" : "images/vistara.jpg",
+            "logotitle" : "vistara"
+        },
+        {
+            "image" : "images/deals03.png",
+            "title" : "trip",
+            "city" : "New York to London",
+            "trip" : "Oneway Trip,Economy",
+            "start" : "From",
+            "price" : " 209 USD",
+            "name" : "Spiceject Airlines",
+            "logo" : "images/spicejet.jpg",
+            "logotitle" : "spicejet"
+        },
+        {
+            "image" : "images/deals04.png",
+            "title" : "trip",
+            "city" : "Australia to Mumbai",
+            "trip" : "Oneway Trip,Economy",
+            "start" : "From",
+            "price" : " 325 USD",
+            "name" : "Airasia Airlines",
+            "logo" : "images/airasia.jpg",
+            "logotitle" : "airasia"
+        }
+    ],
+    "validations":[
+        {
+           "city" : "Emirrates Flights to Mumbai",
+           "discount" : "Book your faviort itiniary in best price",
+           "book" : "Book Now",
+           "image" : "images/destination01.png",
+           "title" : "tourist place"
+        },
+        {
+           "city" : "Qatar Airways Flights to Dubai",
+           "discount" :"Book your faviort itiniary in best price",
+           "book" : "Book Now",
+           "image" : "images/destination02.png",
+           "title" : "tourist place"
+        },
+        {
+           "city" : "Singapore Airlines to Thiland",
+           "discount" :"Book your faviort itiniary in best price",
+           "book" : "Book Now",
+           "image" : "images/destination03.png",
+           "title" : "tourist place"
+        },
+        {
+           "city" : "Cathay Pacific Airways to Tokiyo",
+           "discount" :"Book your faviort itiniary in best price",
+           "book" : "Book Now",
+           "image" : "images/destination04.png",
+           "title" : "tourist place"
+        },
+        {
+           "city" : "Eqantas Airways to Austrailia",
+           "discount" :"Book your faviort itiniary in best price",
+           "book" :"Book Now",
+           "image" :"images/destination05.png",
+           "title" : "tourist place"
+        },
+        {
+           "city" : "EVA Air to Wasington DC",
+           "discount" :"Book your faviort itiniary in best price",
+           "book" :"Book Now",
+           "image" :"images/destination06.png",
+           "title" : "tourist place"
+        },
+        {
+           "city" : "Egypt Air to Las Vegas",
+           "discount" :"Book your faviort itiniary in best price",
+           "book" :"Book Now",
+           "image" :"images/destination07.png",
+           "title" : "tourist place"
+        },
+        {
+           "city" : "Indian Special Turkey Vacation",
+           "discount" :"Book your faviort itiniary in best price",
+           "book" :"Book Now",
+           "image" :"images/destination08.png",
+           "title" : "tourist place"
+        },
+        {
+           "city" : "Middle East to Wasington DC",
+           "discount" :"Book your faviort itiniary in best price",
+           "book" :"Book Now",
+           "image" :"images/destination09.png",
+           "title" : "tourist place"
+        }
+    ],
+    "dealings":[
+        {
+           "class" : "fa fa-plane",
+           "select" : "Select your flight",
+           "guide" : "& tell us your preferences",
+           "no" : 1
+        },
+        {
+            "class" : "fa fa-globe",
+            "select" : "Get multiple fare deals",
+            "guide" : "from verified travel experts",
+            "no" : 2
+        },
+        {
+            "class" : "fa fa-cogs",
+            "select" : "Customize & book",
+            "guide" : "a perfect travel experience",
+            "no" : 3
+        }
+    ],
+    "uniques":[
+        {
+            "image" : "images/articles08.png",
+            "country" : "New York, United States",
+            "price" : "Get prices",
+            "titles" : "package"
+        },
+        {
+            "image" : "images/articles11.png",
+            "country" : "Paris, France",
+            "price" : "Get prices",
+            "titles" : "package"
+        },
+        {
+            "image" : "images/articles09.png",
+            "country" : "Hamburg Speicherstadt, Germany",
+            "price" : "Get prices",
+            "titles" : "package"
+        },
+        {
+            "image" : "images/articles04.png",
+            "country" : "London, England",
+            "price" : "Get prices",
+            "titles" : "package"
+        },
+        {
+            "image" : "images/articles12.png",
+            "country" : "Budapest, Hungary",
+            "price" : "Get prices",
+            "titles" : "package"
+        },
+        {
+            "image" : "images/articles06.png",
+            "country" : "Bangkok, Thailand",
+            "price" : "Get prices",
+            "titles" : "package"
+        }
+    ],
+    "airlines":[
+        {
+            "logo" : "images/6E.jpg",
+            "title" : "IndiGo",
+            "airline" : "IndiGo",
+            "number" : "6E - 315",
+            "detail" : "Flight Details",
+            "depart" : "07:20",
+            "from" : "BER",
+            "arrive" : "08:20",
+            "to" : "LHR",
+            "duration" : "03h 15m",
+            "connect" : "Non Stop",
+            "price" : "4755",
+            "select" : "select"
+        },
+        {
+            "logo" : "images/airasia.jpg",
+            "title" : "Airasia Airlines",
+            "airline" : "IndiGo",
+            "number" : "6E - 315",
+            "detail" : "Flight Details",
+            "depart" : "07:20",
+            "from" : "BER",
+            "arrive" : "08:20",
+            "to" : "LHR",
+            "duration" : "03h 15m",
+            "connect" : "Non Stop",
+            "price" : "4755",
+            "select" : "select"
+        },
+        {
+            "logo" : "images/spicejet.jpg",
+            "title" : "Spiceject Airlines",
+            "airline" : "IndiGo",
+            "number" : "6E - 315",
+            "detail" : "Flight Details",
+            "depart" : "07:20",
+            "from" : "BER",
+            "arrive" : "08:20",
+            "to" : "LHR",
+            "duration" : "03h 15m",
+            "connect" : "Non Stop",
+            "price" : "4755",
+            "select" : "select"
+        },
+        {
+            "logo" : "images/vistara.jpg",
+            "title" : "Vistara Airlines",
+            "airline" : "IndiGo",
+            "number" : "6E - 315",
+            "detail" : "Flight Details",
+            "depart" : "07:20",
+            "from" : "BER",
+            "arrive" : "08:20",
+            "to" : "LHR",
+            "duration" : "03h 15m",
+            "connect" : "Non Stop",
+            "price" : "4755",
+            "select" : "select"
+        },
+        {
+            "logo" : "images/thaiair.jpg",
+            "title" : "Thai Airlines",
+            "airline" : "IndiGo",
+            "number" : "6E - 315",
+            "detail" : "Flight Details",
+            "depart" : "07:20",
+            "from" : "BER",
+            "arrive" : "08:20",
+            "to" : "LHR",
+            "duration" : "03h 15m",
+            "connect" : "Non Stop",
+            "price" : "4755",
+            "select" : "select"
+        },
+        {
+            "logo" : "images/6E.jpg",
+            "title" : "IndiGo",
+            "airline" : "IndiGo",
+            "number" : "6E - 315",
+            "detail" : "Flight Details",
+            "depart" : "07:20",
+            "from" : "BER",
+            "arrive" : "08:20",
+            "to" : "LHR",
+            "duration" : "03h 15m",
+            "connect" : "Non Stop",
+            "price" : "4755",
+            "select" : "select"
+        },
+        {
+            "logo" : "images/airasia.jpg",
+            "title" : "Airasia Airlines",
+            "airline" : "IndiGo",
+            "number" : "6E - 315",
+            "detail" : "Flight Details",
+            "depart" : "07:20",
+            "from" : "BER",
+            "arrive" : "08:20",
+            "to" : "LHR",
+            "duration" : "03h 15m",
+            "connect" : "Non Stop",
+            "price" : "4755",
+            "select" : "select"
+        },
+        {
+            "logo" : "images/spicejet.jpg",
+            "title" : "Spiceject Airlines",
+            "airline" : "IndiGo",
+            "number" : "6E - 315",
+            "detail" : "Flight Details",
+            "depart" : "07:20",
+            "from" : "BER",
+            "arrive" : "08:20",
+            "to" : "LHR",
+            "duration" : "03h 15m",
+            "connect" : "Non Stop",
+            "price" : "4755",
+            "select" : "select"
+        },
+        {
+            "logo" : "images/vistara.jpg",
+            "title" : "Vistara Airlines",
+            "airline" : "IndiGo",
+            "number" : "6E - 315",
+            "detail" : "Flight Details",
+            "depart" : "07:20",
+            "from" : "BER",
+            "arrive" : "08:20",
+            "to" : "LHR",
+            "duration" : "03h 15m",
+            "connect" : "Non Stop",
+            "price" : "4755",
+            "select" : "select"
+        },
+        {
+            "logo" : "images/thaiair.jpg",
+            "title" : "Thai Airlines",
+            "airline" : "IndiGo",
+            "number" : "6E - 315",
+            "detail" : "Flight Details",
+            "depart" : "07:20",
+            "from" : "BER",
+            "arrive" : "08:20",
+            "to" : "LHR",
+            "duration" : "03h 15m",
+            "connect" : "Non Stop",
+            "price" : "4755",
+            "select" : "select"
+        }
+    ]
+}
